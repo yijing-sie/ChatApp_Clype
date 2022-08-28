@@ -3,7 +3,7 @@ This is a personal porject for Advanced Programming Concepts in Java:
 
 > The application name **Clype** is a portmanteau combining `Clarkson` and `Skype`
 
----
+
 **Clype** is a **multi-user chat app**, allowing multiple computers to connect to the same chat room, exchanging messages, **encrypted** text files, and images 
 
 To run the chat room, one has to run the [Server.jar](Server.jar) first, which will open a window displaying information about the connected clients
@@ -38,7 +38,7 @@ The server window and the chat room are both designed by **JavaFx**
 
 ### [src/main](src/main) contains all necessary files for networking between the clients and  server:
 * [ClypeServer.java](src/main/ClypeServer.java) implements `ClypeServer` object that is used in [Server.jar](Server.jar) to handle all the underlying interactions with the server
-* [ServerSideClientIO.java](src/main/ServerSideClientIO..java) utilizes **multi-threading** in Java to implement fucntions for sening data to and receivimg data from client
+* [ServerSideClientIO.java](src/main/ServerSideClientIO.java) utilizes **multi-threading** in Java to implement fucntions for sening data to and receivimg data from client
 * [ClypeClient.java](src/main/ClypeClient.java) implements `ClypeClient` object that is used in [Main.jar](main.jar) to handle all the underlying interactions with the server
 
 
@@ -46,7 +46,8 @@ The server window and the chat room are both designed by **JavaFx**
 * [Main.java](src/application/Main.java) designs the chat room interface and handle events triggered in the chat room
 * [Server.java](src/application/Server.java) designs the server window interface that displays all the connected clients' information
 
-> [pic_1.png](pic_1.png), [pic_2.png](pic_2.png), [pic_3.png](pic_3.png) can be used to test picture share
+> [pic_1.png](pic_1.png), [pic_2.jpg](pic_2.jpg), [pic_3.gif](pic_3.gif) can be used to test picture share
+
 > [document.txt](document.txt), [test.txt](test.txt) can be used to test text file share
 
 
