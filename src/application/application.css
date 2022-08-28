@@ -1,0 +1,18 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.display {
+	-fx-background-color: #ffffff;
+}
+
+.left {
+	-fx-background-color: #fffadd;
+    /* -fx-background-color: #52240a; */
+}
+
+
+.friednList {
+	/* -fx-background-color: #52240a; */
+    -fx-background-color: rgb(57, 0, 9);
+    /* -fx-font-weight: bold; */
+    -fx-text-fill: rgb(255, 255, 255);
+    /* -fx-text-fill: rgb(0, 0, 0); */
+}
