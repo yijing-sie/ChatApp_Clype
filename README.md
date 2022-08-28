@@ -50,6 +50,37 @@ The server window and the chat room are both designed by **JavaFx**
 
 > [document.txt](document.txt), [test.txt](test.txt) can be used to test text file share
 
+### DEMO
+1. HostNotFound : When user trying to connect to an unexisted server, a popup will show up informing the user and let user to close the caht window
 
 
+
+https://user-images.githubusercontent.com/84282744/187065288-581ab1cf-621b-4332-a8ab-c1f9bfbeb200.mp4
+
+
+
+2. Testing Server : Show the server window, how the server window works, and how the server handles exceptions
+
+
+
+https://user-images.githubusercontent.com/84282744/187065506-0c70b976-9c5e-4422-8667-6531a6b720d4.mp4
+
+
+3. Testing User : Show the char room, how to send a picture or a text file to the chat room
+
+
+
+
+
+
+https://user-images.githubusercontent.com/84282744/187065695-1718b6a7-5429-4eba-ab83-e4bc2c270276.mp4
+
+
+
+4. Testing Multiple Users : Show how the chat room works when there are multiple users, how the chat room handles failed connection when users are still in the chat room 
+
+
+
+
+https://user-images.githubusercontent.com/84282744/187066069-fa9e338b-e707-41e3-bcb2-59ee2297ab3d.mp4
 
