@@ -15,8 +15,8 @@ The server window and the chat room are both designed by **JavaFx**
 ## Connecting Instructions
 1. Run the [Server.jar](Server.jar) and enter a port number to start the server; 
 > Press `Default` button to use the default port number is `7000` 
-2. Run [Main.jar](Main.jar) with a username, a hostname and a port number to connect to the server
-> Press `Default` button to use the default user name is `Anon`, host name is `localhost`, and port number is `7000`
+2. Run [Main.jar](Main.jar) with a username, a hostname, and a port number to connect to the server
+> Press `Default` button to use the default user name  `Anon`, host name `localhost`, and port number `7000`
 3. There are three buttons in the chat room:
   * `Leave`: Leave the chat room and close the connection                                                    
   * `Share Picture` : Display a picture to all the users in the chat room
