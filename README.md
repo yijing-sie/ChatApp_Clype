@@ -32,7 +32,7 @@ The server window and the chat room are both designed by **JavaFx**
 
 ## Details
 
-### [src/data](src/data) contains all necessary files for users and servers to exchange data, text messages or images:
+### [src/data](src/data) contains all necessary files for users and servers to exchange data, text messages, or images:
 
 * [ClypeData.java](src/data/ClypeData.java) objects implements **[Vigenere cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)** inside `encrypt` and `decrypt` functions for text files
 
@@ -51,7 +51,7 @@ The server window and the chat room are both designed by **JavaFx**
 > [document.txt](document.txt), [test.txt](test.txt) can be used to test text file share
 
 ### DEMO
-1. HostNotFound : When user trying to connect to an unexisted server, a popup will show up informing the user and let user to close the caht window
+1. HostNotFound : When user tries to connect to an unexisting server, a popup will show up informing the user and letting the user close the chat window
 
 
 
@@ -66,7 +66,7 @@ https://user-images.githubusercontent.com/84282744/187065288-581ab1cf-621b-4332-
 https://user-images.githubusercontent.com/84282744/187065506-0c70b976-9c5e-4422-8667-6531a6b720d4.mp4
 
 
-3. Testing User : Show the char room, how to send a picture or a text file to the chat room
+3. Testing User : Show the chat room, how to send a picture or a text file to the chat room
 
 
 
